@@ -31,3 +31,4 @@ dependencies:
   - cachey
   - python-graphviz
   - zarr
+  - xgboost
