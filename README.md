@@ -11,7 +11,7 @@ XGBoost, and others.
 We generally consider two primary challenges when scaling machine learning code,
 scaling model size and data size. `dask-ml` offers ways to address each.
 
-![](images/dimensions_of_scale.svg)"
+![](images/dimensions_of_scale.svg)
 
 ## Prepare
 
