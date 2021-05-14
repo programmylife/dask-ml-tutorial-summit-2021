@@ -27,7 +27,7 @@ They are, in order of preference:
 
 In the main repo directory
 
-    conda env create -f binder/environment.yml
+    conda env create -f environment.yml
     conda activate dask-ml-tutorial
     jupyter labextension install dask-labextension
     jupyter labextension install @jupyter-widgets/jupyterlab-manager
